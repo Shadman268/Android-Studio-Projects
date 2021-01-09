@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="2dp"
+    android:orientation="vertical"
+    android:background="@color/purple_200"
+    tools:context=".SignUpActivity">
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textEmailAddress"
+        android:hint="Email"
+        android:id="@+id/signUpEmailEdittextId"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:textColorHint="#FF9800"
+        android:textColor="@color/black" />
+
+    <EditText
+        android:id="@+id/signUpPasswordEdittextId"
+        android:hint="Password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPassword"
+        android:layout_marginTop="20dp"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:textColorHint="#FF9800"
+        android:textColor="@color/black"
+
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sign Up"
+        android:layout_marginTop="20dp"
+        android:id="@+id/signUpButtonId"
+        style="@style/TextAppearance.AppCompat.Widget.Button"
+        />
+
+    <TextView
+        android:id="@+id/signIntextviewId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="Are you already registered? Sign In here"
+        android:gravity="center"
+        />
+    <ProgressBar
+        android:id="@+id/ProgressbarId"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        android:layout_gravity="center"
+        />
+</LinearLayout>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CheckboxDemo</string>
+    <string name="title_text">What do you want to buy?</string>
+    <string name="Milk">Milk</string>
+    <string name="Coffee">Coffee</string>
+    <string name="Tea">Tea</string>
+    <string name="Button_Text">Show</string>
+
+</resources>

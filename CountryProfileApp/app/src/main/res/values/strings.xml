@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">CountryProfileApp</string>
+    <string name="Bangladesh_Button">Bangladesh</string>
+    <string name="India_Button">India</string>
+    <string name="Pakistan_Button">Pakistan</string>
+    <string name="title_text">This is a title</string>
+    <string name="msg_text">Wanna Exit?</string>
+
+    <string name="Bangladesh_text">A virtual guide to Bangladesh, an independent country since 1971, named officially Peoples Republic of Bangladesh.
+
+The country is situated in southern Asia in the Ganges River (Padma) delta on the Bay of Bengal. Bangladesh is bordered by India in west, north and east and has a short border with Myanmar (Burma) in south east.
+
+The state occupies an area of 143,998 km², compared it is slightly larger than Greece (131,957 km²) or slightly smaller than the U.S. state of Iowa.
+
+It is one of the world s most densely populated countries. Bangladesh has a population of more than 164 million people (in 2017). The majority of its population are followers of Islam (about 88%). Capital and largest city is Dhaka. Spoken language is Bangla (or Bengali by 98%).</string>
+
+    <string name="India_text">India, country that occupies the greater part of South Asia. Its capital is New Delhi, built in the 20th century just south of the historic hub of Old Delhi to serve as India’s administrative centre. Its government is a constitutional republic that represents a highly diverse population consisting of thousands of ethnic groups and likely hundreds of languages.With roughly one-sixth of the world’s total population, India is the second most populous country, after China.</string>
+    <string name="Pakistan_text">A virtual guide to the Islamic Republic of Pakistan, a country in South Asia with a coastline on the Arabian Sea in south. Pakistan is bordered by Afghanistan, China, India, and Iran.
+
+Within Pakistans landscape there is the flat fertile Indus plain in east, nurtured by the Indus, the countrys longest river and a key water resource. Pakistans north is mountainous. The nations highest mountains are in the Himalayas in north east. Pakistans largest and least populated province is Balochistan situated on the Balochistan Plateau in the south and west.
+
+The country occupies an area of 796,095 km², compared it is slightly larger than Turkey (783,562 km²) or slightly less than twice the size of the U.S. state of California.</string>
+</resources>
